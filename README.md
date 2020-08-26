@@ -1,3 +1,3 @@
 # Undergraduate
 
-All the undergraduation project
+All the undergrad projects!
